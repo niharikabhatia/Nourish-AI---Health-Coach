@@ -1,0 +1,6 @@
+{
+  "name": "Nourish AI",
+  "description": "Premium AI-powered Nutrition & Health Assistant for India featuring Swastika, your personalized, RAG-grounded health coach.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
